@@ -1,0 +1,7 @@
+{
+  "name": "practicaFirebaseAlumnos",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
